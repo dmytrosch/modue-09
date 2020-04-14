@@ -173,9 +173,13 @@ figure{
     color: #666666;
 }
 
-.partner-item{
+.partner-item:not(:last-child){
     margin-bottom: 27px;
     padding: 0 25px;
+}
+
+.partners-list{
+    margin-bottom: 27px;
 }
 
 .other-partner-link{
