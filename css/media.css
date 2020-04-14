@@ -1,14 +1,6 @@
 /* ***********BOTH*********** */
 
 @media (min-width: 768px){
-    /* .container{
-        min-width: 672px;
-        max-width: 940px;
-        margin: 0 auto;
-        padding-right: 50px;
-        padding-left: 50px;
-    } */
-
     .wrapper{
         padding: 0;
         padding-top: 38px;
@@ -79,13 +71,6 @@
         padding-bottom: 40px;
     }
 
-    .partners-list{
-        /* width: 500px;
-        min-height: 500px; */
-        /* flex-wrap: wrap;
-        align-content: space-between; */
-    }
-
     .partner-item{
         width: 234px;
     }
@@ -127,10 +112,6 @@
 
     .partners-section{
         padding-bottom: 73px;
-    }
-
-    .partners-list{
-        /* flex-wrap: nowrap; */
     }
 
     .partner-item{
